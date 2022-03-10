@@ -1,0 +1,89 @@
+{
+    "access": [
+        {
+            "title": "TBD",
+            "url": "#"
+        }
+    ],
+
+    "consistency": [
+        {
+            "title": "TBD",
+            "url": "#"
+        }
+    ],
+
+    "edit": [
+        {
+            "title": "TBD",
+            "url": "#"
+        }
+    ],
+
+    "reasoning": [
+        {
+            "title": "Are Pretrained Language Models Symbolic Reasoners Over Knowledge?",
+            "url": "https://aclanthology.org/2020.conll-1.45.pdf"
+        },
+        {
+            "title": "Transformers as Soft Reasoners over Language",
+            "url": "https://arxiv.org/abs/2002.05867"
+        },
+        {
+            "title": "Pushing the Limits of Rule Reasoning in Transformers through Natural Language Satisfiability",
+            "url": "https://arxiv.org/abs/2112.09054"
+        },
+        {
+            "title": "RULEBERT: Teaching Soft Rules to Pre-Trained Language Models",
+            "url": "https://arxiv.org/abs/2109.13006"
+        },
+        {
+            "title": "Symbolic Knowledge Distillation: from General Language Models to Commonsense Model",
+            "url": "https://arxiv.org/abs/2110.07178"
+        },
+        {
+            "title": "Commonsense Reasoning with Implicit Knowledge in Natural Language",
+            "url": "https://openreview.net/pdf?id=a4-fFL7aCi0"
+        },
+        {
+            "title": "RICA: Evaluating Robust Inference Capabilities Based on Commonsense Axioms",
+            "url": "https://arxiv.org/abs/2005.00782"
+        },
+        {
+            "title": "Explain Yourself! Leveraging Language Models for Commonsense Reasoning",
+            "url": "https://aclanthology.org/P19-1487.pdf"
+        },
+        {
+            "title": "Formal Mathematics Statement Curriculum Learning",
+            "url": "https://www.semanticscholar.org/paper/Formal-Mathematics-Statement-Curriculum-Learning-Polu-Han/916a06a6d51aa93de27aac2f3e14faed08dd6706"
+        },
+        {
+            "title": "PROVER: Proof Generation for Interpretable Reasoning over Rules",
+            "url": "https://aclanthology.org/2020.emnlp-main.9.pdf"
+        },
+
+        {
+            "title": "Analysing Mathematical Reasoning Abilities of Neural Models",
+            "url": "https://arxiv.org/abs/1904.01557"
+        },
+        {
+            "title": "ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language",
+            "url": "https://aclanthology.org/2021.findings-acl.317.pdf"
+        },
+        {
+            "title": "Measuring Systematic Generalization in Neural Proof Generation with Transformers",
+            "url": "https://arxiv.org/abs/2009.14786"
+        },
+        {
+            "title": "TBD",
+            "url": "#"
+        }
+    ],
+    
+    "explainability": [
+        {
+            "title": "TBD",
+            "url": "#"
+        }
+    ]
+}
