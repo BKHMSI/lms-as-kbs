@@ -1,1 +1,1 @@
-# LMs-as-KBs Survey Paper Website
+# LMs-as-KBs Survey Paper
