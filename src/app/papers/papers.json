@@ -147,11 +147,206 @@
             "url": "#"
         }
     ],
-    
+    "interpretability": [
+        {
+            "title": "Interpretability and Analysis in Neural NLP",
+            "url": "https://aclanthology.org/2020.acl-tutorials.1/"
+        },
+        {
+	        "title": "Designing and Interpreting Probes with Control Tasks",
+	        "url": "https://arxiv.org/abs/1909.03368"
+        },
+        {
+            "title": "A Structural Probe for Finding Syntax in Word Representations",
+            "url": "https://aclanthology.org/N19-1419/"
+        },
+        {
+            "title": "What Do You Learn from Context? Probing for Sentence Structure in Contextualized Word Representations",
+            "url": "https://arxiv.org/abs/1905.06316"
+        },
+        {
+            "title": "Attention is not Explanation",
+            "url": "https://arxiv.org/abs/1902.10186"
+        },
+        {
+            "title": "Is Attention Interpretable?",
+            "url": "https://arxiv.org/abs/1906.03731"
+        },
+        {
+            "title": "Attention is not not Explanation",
+            "url": "https://arxiv.org/abs/1908.04626"
+        },
+        {
+            "title": "Towards Transparent and Explainable Attention Models",
+            "url": "https://arxiv.org/abs/2004.14243"
+        },
+        {
+            "title": "Of Non-Linearity and Commutativity in BERT",
+            "url": "https://arxiv.org/abs/2101.04547"
+        },
+        {
+            "title": "Transformer Feed-Forward Layers Are Key-Value Memories",
+            "url": "https://arxiv.org/abs/2012.14913"
+        },
+        {
+            "title": "Locating and Editing Factual Knowledge in GPT",
+            "url": "https://arxiv.org/abs/2202.05262"
+        },
+        {
+            "title": "A Mathematical Framework for Transformer Circuits",
+            "url": "https://transformer-circuits.pub/2021/framework/index.html"
+        }
+    ],
     "explainability": [
         {
-            "title": "TBD",
-            "url": "#"
+            "title": "Understanding Black-box Predictions via Influence Functions",
+            "url": "https://arxiv.org/abs/1703.04730"
+        },
+        {
+            "title": "Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions",
+            "url": "https://arxiv.org/abs/2005.06676"
+        },
+        {
+            "title": "An Empirical Comparison of Instance Attribution Methods for NLP",
+            "url": "https://arxiv.org/abs/2104.04128"
+        },
+        {
+            "title": "Combining Feature and Instance Attribution to Detect Artifacts",
+            "url": "https://arxiv.org/abs/2107.00323"
+        },
+        {
+            "title": "HILDIF: Interactive Debugging of NLI Models Using Influence Functions",
+            "url": "https://aclanthology.org/2021.internlp-1.1/"
+        },
+        {
+            "title": "WT5?! Training Text-to-Text Models to Explain their Predictions",
+            "url": "https://arxiv.org/abs/2004.14546"
+        },
+        {
+            "title": "Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations",
+            "url": "https://arxiv.org/abs/1910.03065"
+        },
+        {
+            "title": "Interactively Generating Explanations for Transformer Language Models",
+            "url": "https://arxiv.org/abs/2110.02058"
+        },
+        {
+            "title": "Rationalizing Neural Predictions",
+            "url": "https://arxiv.org/abs/1606.04155"
+        },
+        {
+            "title": "Prompting Contrastive Explanations for Commonsense Reasoning Tasks",
+            "url": "https://aclanthology.org/2021.findings-acl.366/"
+        }
+    ],
+    "models": [
+        {
+            "title": "A Neural Knowledge Language Model",
+            "url": "https://arxiv.org/abs/1608.00318"
+        },
+        {
+            "title": "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction",
+            "url": "https://arxiv.org/abs/1906.05317"
+        },
+        {
+            "title": "Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling",
+            "url": "https://arxiv.org/abs/1906.07241"
+        },
+        {
+            "title": "Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph",
+            "url": "https://arxiv.org/abs/2009.11692"
+        },
+        {
+            "title": "BERT-MK: Integrating Graph Contextualized Knowledge into Pre-trained Language Models",
+            "url": "https://aclanthology.org/2020.findings-emnlp.207/"
+        },
+        {
+            "title": "Knowledge Enhanced Contextual Word Representations",
+            "url": "https://arxiv.org/abs/1909.04164"
+        },
+        {
+            "title": "Entities as Experts: Sparse Memory Access with Entity Supervision",
+            "url": "https://arxiv.org/abs/2004.07202"
+        },
+        {
+            "title": "Facts as Experts: Adaptable and Interpretable Neural Memory over Symbolic Knowledge",
+            "url": "https://arxiv.org/abs/2007.00849"
+        },
+        {
+            "title": "Reasoning Over Virtual Knowledge Bases with Open Predicate Relations",
+            "url": "https://arxiv.org/abs/2102.07043"
+        },
+        {
+            "title": "ERNIE: Enhanced Language Representation with Informative Entities",
+            "url": "https://arxiv.org/abs/1905.07129"
+        },
+        {
+            "title": "KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation",
+            "url": "https://arxiv.org/abs/1911.06136"
+        },
+        {
+            "title": "Knowledge-Aware Language Model Pretraining",
+            "url": "https://arxiv.org/abs/2007.00655"
+        },
+        {
+            "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+            "url": "https://arxiv.org/abs/2005.11401"
+        },
+        {
+            "title": "Differentiable Reasoning over a Virtual Knowledge Base",
+            "url": "https://arxiv.org/abs/2002.10640"
+        },
+        {
+            "title": "Mention Memory: Incorporating Textual Knowledge Into Transformers Through Entity Mention Attention",
+            "url": "https://arxiv.org/abs/2110.06176"
+        },
+        {
+            "title": "Adaptive Semiparametric Language Models",
+            "url": "https://arxiv.org/abs/2102.02557"
+        },
+        {
+            "title": "Episodic Memory in Lifelong Language Learning",
+            "url": "https://arxiv.org/abs/1906.01076"
+        },
+        {
+            "title": "Relational Memory Augmented Language Models",
+            "url": "https://arxiv.org/abs/2201.09680"
+        },
+        {
+            "title": "K-BERT: Enabling Language Representation with Knowledge Graph",
+            "url": "https://arxiv.org/abs/1909.07606"
+        },
+        {
+            "title": "LUKE: Deep Contextualized Entity Representations with Entity-Aware Self-Attention",
+            "url": "https://aclanthology.org/2020.emnlp-main.523/"
+        },
+        {
+            "title": "mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models",
+            "url": "https://arxiv.org/abs/2110.08151"
+        },
+        {
+            "title": "ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning",
+            "url": "https://arxiv.org/abs/2012.15022"
+        },
+        {
+            "title": "KG-BERT: BERT for Knowledge Graph Completion",
+            "url": "https://arxiv.org/abs/1909.03193"
+        },
+        {
+            "title": "HTLM: Hyper-Text Pre-Training and Prompting of Language Models",
+            "url": "https://arxiv.org/abs/2107.06955"
+        },
+        {
+            "title": "CM3: A Causal Masked Multimodal Model of the Internet",
+            "url": "https://arxiv.org/abs/2201.07520"
+        },
+        {
+            "title": "REALM: Retrieval-Augmented Language Model Pre-Training",
+            "url": "https://arxiv.org/abs/2002.08909"
+        },
+        {
+            "title": "Multi-task Retrieval for Knowledge-Intensive Tasks",
+            "url": "https://arxiv.org/abs/2101.00117"
         }
     ]
 }

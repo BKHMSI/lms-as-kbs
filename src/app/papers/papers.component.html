@@ -70,10 +70,60 @@
                             </td>
                         </tr>
                         <tr>
+                            <td><strong>Interpretability</strong></td>
+                            <td>
+                                <ol>
+                                    <li *ngFor="let paper of list['interpretability']">
+                                        <a href="{{paper.url}}"> {{paper.title}} </a>
+                                    </li>
+                                </ol>
+                            </td>
+                            <td>
+
+                            </td>
+                        </tr>
+                        <tr>
                             <td><strong>Explainability</strong></td>
                             <td>
                                 <ol>
                                     <li *ngFor="let paper of list['explainability']">
+                                        <a href="{{paper.url}}"> {{paper.title}} </a>
+                                    </li>
+                                </ol>
+                            </td>
+                            <td>
+
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="row flex-lg-row-reverse align-items-center">
+        <h2><i class="fa fa-book"></i> Additional Readings</h2>
+        <hr>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="table">
+                <table style="width: 100%">
+                    <thead>
+                        <tr>
+                            <th class="th-sm">Models</th>
+                            <th class="th-sm">Readings</th>
+                            <th class="th-sm">Updated Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Models</strong></td>
+                            <td>
+                                <ol>
+                                    <li *ngFor="let paper of list['models']">
                                         <a href="{{paper.url}}"> {{paper.title}} </a>
                                     </li>
                                 </ol>
