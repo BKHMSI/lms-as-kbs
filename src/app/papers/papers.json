@@ -147,11 +147,96 @@
             "url": "#"
         }
     ],
-    
+    "interpretability": [
+        {
+            "title": "Interpretability and Analysis in Neural NLP",
+            "url": "https://aclanthology.org/2020.acl-tutorials.1/"
+        },
+        {
+	        "title": "Designing and Interpreting Probes with Control Tasks",
+	        "url": "https://arxiv.org/abs/1909.03368"
+        },
+        {
+            "title": "A Structural Probe for Finding Syntax in Word Representations",
+            "url": "https://aclanthology.org/N19-1419/"
+        },
+        {
+            "title": "What Do You Learn from Context? Probing for Sentence Structure in Contextualized Word Representations",
+            "url": "https://arxiv.org/abs/1905.06316"
+        },
+        {
+            "title": "Attention is not Explanation",
+            "url": "https://arxiv.org/abs/1902.10186"
+        },
+        {
+            "title": "Is Attention Interpretable?",
+            "url": "https://arxiv.org/abs/1906.03731"
+        },
+        {
+            "title": "Attention is not not Explanation",
+            "url": "https://arxiv.org/abs/1908.04626"
+        },
+        {
+            "title": "Towards Transparent and Explainable Attention Models",
+            "url": "https://arxiv.org/abs/2004.14243"
+        },
+        {
+            "title": "Of Non-Linearity and Commutativity in BERT",
+            "url": "https://arxiv.org/abs/2101.04547"
+        },
+        {
+            "title": "Transformer Feed-Forward Layers Are Key-Value Memories",
+            "url": "https://arxiv.org/abs/2012.14913"
+        },
+        {
+            "title": "Locating and Editing Factual Knowledge in GPT",
+            "url": "https://arxiv.org/abs/2202.05262"
+        },
+        {
+            "title": "A Mathematical Framework for Transformer Circuits",
+            "url": "https://transformer-circuits.pub/2021/framework/index.html"
+        }
+    ],
     "explainability": [
         {
-            "title": "TBD",
-            "url": "#"
+            "title": "Understanding Black-box Predictions via Influence Functions",
+            "url": "https://arxiv.org/abs/1703.04730"
+        },
+        {
+            "title": "Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions",
+            "url": "https://arxiv.org/abs/2005.06676"
+        },
+        {
+            "title": "An Empirical Comparison of Instance Attribution Methods for NLP",
+            "url": "https://arxiv.org/abs/2104.04128"
+        },
+        {
+            "title": "Combining Feature and Instance Attribution to Detect Artifacts",
+            "url": "https://arxiv.org/abs/2107.00323"
+        },
+        {
+            "title": "HILDIF: Interactive Debugging of NLI Models Using Influence Functions",
+            "url": "https://aclanthology.org/2021.internlp-1.1/"
+        },
+        {
+            "title": "WT5?! Training Text-to-Text Models to Explain their Predictions",
+            "url": "https://arxiv.org/abs/2004.14546"
+        },
+        {
+            "title": "Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations",
+            "url": "https://arxiv.org/abs/1910.03065"
+        },
+        {
+            "title": "Interactively Generating Explanations for Transformer Language Models",
+            "url": "https://arxiv.org/abs/2110.02058"
+        },
+        {
+            "title": "Rationalizing Neural Predictions",
+            "url": "https://arxiv.org/abs/1606.04155"
+        },
+        {
+            "title": "Prompting Contrastive Explanations for Commonsense Reasoning Tasks",
+            "url": "https://aclanthology.org/2021.findings-acl.366/"
         }
     ]
 }
