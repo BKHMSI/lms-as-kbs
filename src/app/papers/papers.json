@@ -1,29 +1,97 @@
 {
     "access": [
         {
-            "title": "TBD",
-            "url": "#"
+            "title": "Language Models as Knowledge Bases?",
+            "url": "https://arxiv.org/abs/1909.01066"
+        },
+        {
+            "title": "Can Language Models be Biomedical Knowledge Bases?",
+            "url": "https://arxiv.org/abs/2109.07154"
+        },
+        {
+            "title": "Probing Across Time: What Does RoBERTa Know and When?",
+            "url": "https://arxiv.org/abs/2104.07885"
+        },
+        {
+            "title": "Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference",
+            "url": "https://arxiv.org/abs/2001.07676"
+        },
+        {
+            "title": "It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners",
+            "url": "https://arxiv.org/abs/2009.07118"
+        },
+        {
+            "title": "Entailment as Few-Shot Learner",
+            "url": "https://arxiv.org/abs/2104.14690"
+        },
+        {
+            "title": "Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections",
+            "url": "https://arxiv.org/abs/2104.04670"
+        },
+        {
+            "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+            "url": "https://arxiv.org/abs/2101.00190"
+        },
+        {
+            "title": "Factual Probing Is [MASK]: Learning vs. Learning to Recall",
+            "url": "https://arxiv.org/abs/2104.05240"
+        },
+        {
+            "title": "The Power of Scale for Parameter-Efficient Prompt Tuning",
+            "url": "https://arxiv.org/abs/2104.08691"
+        },
+        {
+            "title": "Learning How to Ask: Querying LMs with Mixtures of Soft Prompts",
+            "url": "https://arxiv.org/abs/2104.06599"
         }
     ],
 
     "consistency": [
         {
-            "title": "TBD",
-            "url": "#"
+            "title": "Measuring and Improving Consistency in Pretrained Language Models",
+            "url": "https://arxiv.org/abs/2102.01017"
+        },
+        {
+            "title": "Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly",
+            "url": "https://aclanthology.org/2020.acl-main.698/"
+        },
+        {
+            "title": "Knowledge Based Multilingual Language Model",
+            "url": "https://arxiv.org/abs/2111.10962"
         }
     ],
 
     "edit": [
         {
-            "title": "TBD",
-            "url": "#"
+            "title": "Modifying Memories in Transformer Models",
+            "url": "https://arxiv.org/abs/2012.00363"
+        },
+        {
+            "title": "Knowledge Neurons in Pretrained Transformers",
+            "url": "https://arxiv.org/abs/2104.08696"
+        },
+        {
+            "title": "Editing Factual Knowledge in Language Models",
+            "url": "https://arxiv.org/abs/2104.08164"
+        },
+        {
+            "title": "Fast Model Editing at Scale",
+            "url": "https://arxiv.org/abs/2110.11309"
+        },
+        {
+            "title": "Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs",
+            "url": "https://arxiv.org/abs/2111.13654"
+        },
+        {
+            "title": "Towards Continual Knowledge Learning of Language Models",
+            "url": "https://arxiv.org/abs/2110.03215"
         }
     ],
 
     "reasoning": [
         {
             "title": "Are Pretrained Language Models Symbolic Reasoners Over Knowledge?",
-            "url": "https://aclanthology.org/2020.conll-1.45.pdf"
+            "url": "https://aclanthology.org/2020.conll-1.45"
         },
         {
             "title": "Transformers as Soft Reasoners over Language",
@@ -51,7 +119,7 @@
         },
         {
             "title": "Explain Yourself! Leveraging Language Models for Commonsense Reasoning",
-            "url": "https://aclanthology.org/P19-1487.pdf"
+            "url": "https://aclanthology.org/P19-1487"
         },
         {
             "title": "Formal Mathematics Statement Curriculum Learning",
@@ -59,7 +127,7 @@
         },
         {
             "title": "PROVER: Proof Generation for Interpretable Reasoning over Rules",
-            "url": "https://aclanthology.org/2020.emnlp-main.9.pdf"
+            "url": "https://aclanthology.org/2020.emnlp-main.9"
         },
 
         {
@@ -68,7 +136,7 @@
         },
         {
             "title": "ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language",
-            "url": "https://aclanthology.org/2021.findings-acl.317.pdf"
+            "url": "https://aclanthology.org/2021.findings-acl.317"
         },
         {
             "title": "Measuring Systematic Generalization in Neural Proof Generation with Transformers",
