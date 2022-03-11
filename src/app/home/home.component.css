@@ -13,11 +13,19 @@
 .authors li {
     display: inline;
     padding: 10px;
-    text-decoration: underline;
 }
 
 .pages li {
     display: inline;
+}
+
+.authors li a {
+    text-decoration: underline;
+}
+
+.abstract {
+    text-align: center;
+    margin: 0 auto;
 }
 
 li a {
